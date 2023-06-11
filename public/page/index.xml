@@ -1,74 +1,378 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on My New Hugo Site</title>
+        <title>Pages on Welcome to my Cv!</title>
         <link>https://example.com/page/</link>
-        <description>Recent content in Pages on My New Hugo Site</description>
+        <description>Recent content in Pages on Welcome to my Cv!</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Archives</title>
+        <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Academic record</title>
         <link>https://example.com/page/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
         
         <guid>https://example.com/page/archives/</guid>
-        <description></description>
+        <description>&lt;p&gt;This section shows the most relevant &lt;strong&gt;academic records&lt;/strong&gt; with a clear overview of the responsibilities and skills learned. Feel free to consult the &lt;strong&gt;Home page&lt;/strong&gt; for a deeper understanding of each event.&lt;/p&gt;
+&lt;h3 id=&#34;mbe-management-of-the-built-environment&#34;&gt;MBE, Management of the Built Environment&lt;/h3&gt;
+&lt;p&gt;The &lt;strong&gt;Master of Science&lt;/strong&gt; in Management of the Built Environment program at &lt;strong&gt;Politecnico di Milano&lt;/strong&gt; prepares students to manage complex building projects and urban environments. The program covers a range of topics, including real estate management, urban planning, environmental sustainability, project management, and digital innovation. Students develop skills in leadership, problem-solving, communication, and collaboration.&lt;/p&gt;
+&lt;p&gt;The exams taken refer to the courses of:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course&lt;/th&gt;
+&lt;th&gt;Score&lt;/th&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Course&lt;/th&gt;
+&lt;th&gt;Score&lt;/th&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Production management&lt;/td&gt;
+&lt;td&gt;30 / 30&lt;/td&gt;
+&lt;td&gt;01.2022&lt;/td&gt;
+&lt;td&gt;Valorisation of historical buildings&lt;/td&gt;
+&lt;td&gt;30 / 30&lt;/td&gt;
+&lt;td&gt;06.2023&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Business economics&lt;/td&gt;
+&lt;td&gt;27 / 30&lt;/td&gt;
+&lt;td&gt;01.2022&lt;/td&gt;
+&lt;td&gt;Regional economics&lt;/td&gt;
+&lt;td&gt;30 / 30&lt;/td&gt;
+&lt;td&gt;06.2023&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Evaluation and management of real estate&lt;/td&gt;
+&lt;td&gt;27 / 30&lt;/td&gt;
+&lt;td&gt;01.2022&lt;/td&gt;
+&lt;td&gt;Analysis of urban and territorial systems&lt;/td&gt;
+&lt;td&gt;30 / 30&lt;/td&gt;
+&lt;td&gt;06.2023&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Master, Milan - Start date: 09.2022, End date: 07.2024&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/page/archives/MBE.png&#34;
+	width=&#34;8000&#34;
+	height=&#34;2180&#34;
+	srcset=&#34;https://example.com/page/archives/MBE_hu24cf5a485bc0266a06c9f10169e123ff_20494142_480x0_resize_box_3.png 480w, https://example.com/page/archives/MBE_hu24cf5a485bc0266a06c9f10169e123ff_20494142_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Milan - Start date: 09.2022, End date: 07.2024&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;366&#34;
+		data-flex-basis=&#34;880px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;muge-building-construction-management&#34;&gt;MUGE, Building Construction Management&lt;/h3&gt;
+&lt;p&gt;The Building Construction Management &lt;strong&gt;Master&lt;/strong&gt; at the School of Building Construction of the &lt;strong&gt;Polytechnic University of Catalonia&lt;/strong&gt; (EPSEB-UPC) in Barcelona is a program designed to provide students with the knowledge and skills required to manage construction projects effectively.&lt;/p&gt;
+&lt;p&gt;The master&amp;rsquo;s program focuses on various aspects of construction management, including project planning, cost estimation, risk management, sustainable construction practices, and quality control. Students gain a comprehensive understanding of the construction industry, learning about building technologies, legal and regulatory frameworks, and management strategies.&lt;/p&gt;
+&lt;p&gt;The exams taken refer to the courses of:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course&lt;/th&gt;
+&lt;th&gt;Score&lt;/th&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Course&lt;/th&gt;
+&lt;th&gt;Score&lt;/th&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Real Estate Marketing&lt;/td&gt;
+&lt;td&gt;9.5 / 10&lt;/td&gt;
+&lt;td&gt;06.2023&lt;/td&gt;
+&lt;td&gt;Models and Decision Tools&lt;/td&gt;
+&lt;td&gt;9.5 / 10&lt;/td&gt;
+&lt;td&gt;06.2023&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Real Estate Management FM&lt;/td&gt;
+&lt;td&gt;9.5 / 10&lt;/td&gt;
+&lt;td&gt;06.2023&lt;/td&gt;
+&lt;td&gt;Management skills&lt;/td&gt;
+&lt;td&gt;9.5 / 10&lt;/td&gt;
+&lt;td&gt;06.2023&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Process and Projects Management PMI&lt;/td&gt;
+&lt;td&gt;9.5 / 10&lt;/td&gt;
+&lt;td&gt;06.2023&lt;/td&gt;
+&lt;td&gt;Smart cities&lt;/td&gt;
+&lt;td&gt;9.5 / 10&lt;/td&gt;
+&lt;td&gt;06.2023&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Master, Barcelona - Start date: 02.2023, End date: 06.2023&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/page/archives/MUGE.png&#34;
+	width=&#34;8000&#34;
+	height=&#34;2180&#34;
+	srcset=&#34;https://example.com/page/archives/MUGE_hu1cbf2bae7120ebd1c3ffb4506614e224_3259317_480x0_resize_box_3.png 480w, https://example.com/page/archives/MUGE_hu1cbf2bae7120ebd1c3ffb4506614e224_3259317_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Barcelona - Start date: 02.2023, End date: 06.2023&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;366&#34;
+		data-flex-basis=&#34;880px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;auic-architecture-design&#34;&gt;AUIC, Architecture design&lt;/h3&gt;
+&lt;p&gt;The &lt;strong&gt;Bachelor&lt;/strong&gt; of Architecture Design program at &lt;strong&gt;Politecnico di Milano&lt;/strong&gt; focuses on design, planning, and management of the built environment. The program aims to develop students’ technical, creative, and critical thinking skills through a combination of theo-retical and practical coursework. Students learn to design sustainable and innovative buildings and spaces, incorporating cultural, social, and economic considerations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bachelor, Milan - Start date: 09.2019, End date: 07.2022&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/page/archives/AUIC.png&#34;
+	width=&#34;8000&#34;
+	height=&#34;2180&#34;
+	srcset=&#34;https://example.com/page/archives/AUIC_hufb19cd64967e614519b3b6f3cbd05f9b_13522925_480x0_resize_box_3.png 480w, https://example.com/page/archives/AUIC_hufb19cd64967e614519b3b6f3cbd05f9b_13522925_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Milan - Start date: 09.2019, End date: 07.2022&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;366&#34;
+		data-flex-basis=&#34;880px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
         </item>
         <item>
-        <title>About</title>
+        <title>Certifications</title>
+        <link>https://example.com/page/certifications/</link>
+        <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/page/certifications/</guid>
+        <description>&lt;p&gt;This section shows the most relevant certifications for each corresponding fields of &lt;strong&gt;Project planning, Project Management, Data science&lt;/strong&gt;. Feel free to consult the certification by &lt;code&gt;clicking&lt;/code&gt; on it for a deeper understanding of duties and projects held.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/page/certifications/certification.png&#34;
+	width=&#34;8002&#34;
+	height=&#34;2181&#34;
+	srcset=&#34;https://example.com/page/certifications/certification_hu2c53eeaf54ef167fb52df6d6b3f493b4_4522876_480x0_resize_box_3.png 480w, https://example.com/page/certifications/certification_hu2c53eeaf54ef167fb52df6d6b3f493b4_4522876_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Personal achievements&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;366&#34;
+		data-flex-basis=&#34;880px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Experience</title>
+        <link>https://example.com/page/experience/</link>
+        <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/page/experience/</guid>
+        <description>&lt;p&gt;In this chapter are listed the most relevant information regarding the working experience to asses a clear overview. For a depth understanding, feel free to review the related posts in the &lt;strong&gt;Home Section&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;golem-studio-architecture-intern&#34;&gt;GOLEM Studio, Architecture Intern&lt;/h3&gt;
+&lt;p&gt;During my one-year experience at &lt;strong&gt;GOLEM&lt;/strong&gt;, I had the privilege of contributing to various projects, participating in the concept phase, and realizing architectural drawings and realistic renders. This involvement allowed me to immerse myself in the creative process and witness firsthand the transformation of ideas into tangible architectural desi  gns.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;France, PARIS - Start date: 04.2022, End date: 02.2023&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/page/experience/golem2.png&#34;
+	width=&#34;8000&#34;
+	height=&#34;2180&#34;
+	srcset=&#34;https://example.com/page/experience/golem2_hubcd2c665f6ccc977f574e4c58ae2894f_5890485_480x0_resize_box_3.png 480w, https://example.com/page/experience/golem2_hubcd2c665f6ccc977f574e4c58ae2894f_5890485_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;France, PARIS - Start date: 04.2022, End date: 02.2023&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;366&#34;
+		data-flex-basis=&#34;880px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;deverse-studio-metaverse-developer&#34;&gt;DEVERSE Studio, Metaverse developer&lt;/h3&gt;
+&lt;p&gt;During my one-year experience at &lt;strong&gt;DEVERSE.STUDIO&lt;/strong&gt;, a metaverse-specific design studio based in Paris co-founded by Ariel Claudet and Alessio Scalabrini, I had the opportunity to work on a range of exciting projects that focused on the intersection of luxury brands and the metaverse.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;France, PARIS - Start date: 09.2022, End date: 05.2023&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/page/experience/deverse2.png&#34;
+	width=&#34;8000&#34;
+	height=&#34;2180&#34;
+	srcset=&#34;https://example.com/page/experience/deverse2_hu56ae284cb508d574310d78e41309631e_10187789_480x0_resize_box_3.png 480w, https://example.com/page/experience/deverse2_hu56ae284cb508d574310d78e41309631e_10187789_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;France, PARIS - Start date: 09.2022, End date: 05.2023&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;366&#34;
+		data-flex-basis=&#34;880px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;virginia-lorello-studio-architecture-evaluation&#34;&gt;VIRGINIA LORELLO Studio, Architecture evaluation&lt;/h3&gt;
+&lt;p&gt;During my professional tenure, I had the privilege of working at &lt;strong&gt;Virginia Lorello Studio&lt;/strong&gt;, an esteemed architecture firm located in Milan. In this role, I actively engaged in various international competitions, including the renowned Milano Design Week. Additionally, as a Junior Project Manager, I contributed to the team by conducting comprehensive cost evaluations for diverse projects, thereby assisting in their assessment and management.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Milan, ITALY - Start date: 11.2021, End date: 02.2022&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/page/experience/lorello.png&#34;
+	width=&#34;8000&#34;
+	height=&#34;2180&#34;
+	srcset=&#34;https://example.com/page/experience/lorello_hu115b85869e842a5414ba41b2f063d4a2_7679468_480x0_resize_box_3.png 480w, https://example.com/page/experience/lorello_hu115b85869e842a5414ba41b2f063d4a2_7679468_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Milan, ITALY - Start date: 11.2021, End date: 02.2022&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;366&#34;
+		data-flex-basis=&#34;880px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Projects</title>
+        <link>https://example.com/page/projects/</link>
+        <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/page/projects/</guid>
+        <description>&lt;p&gt;This section shows some of my personal research and projects about &lt;strong&gt;Marketing, Real estate evaluation, Project Management, Data science, Urbanism&lt;/strong&gt; and many more. Feel free to consult the project details by &lt;code&gt;clicking&lt;/code&gt; on it for a deeper understanding of the content and execution.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/page/projects/mry.png&#34;
+	width=&#34;8002&#34;
+	height=&#34;2181&#34;
+	srcset=&#34;https://example.com/page/projects/mry_hub3cd9d19b07f249117a9204d538ae7e6_5395744_480x0_resize_box_3.png 480w, https://example.com/page/projects/mry_hub3cd9d19b07f249117a9204d538ae7e6_5395744_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Personal achievements&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;366&#34;
+		data-flex-basis=&#34;880px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>About me</title>
         <link>https://example.com/page/about/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
         
         <guid>https://example.com/page/about/</guid>
-        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Welcome to my CV&lt;/strong&gt;! I introduce myself, my name is Ahmed, I am a recent graduate in Architectural Design at the Politecnico di Milano with international work experience for architectural studies based in Paris.
+In the last 2 years I have had the opportunity to expand my work experience in architectural design as well as in its planning and management, I have realized projects for international exhibitions, including designing a pavilion for the &lt;strong&gt;Biennale of Venice&lt;/strong&gt; and exhibitions in &lt;strong&gt;Paris&lt;/strong&gt;, &lt;strong&gt;London&lt;/strong&gt; and &lt;strong&gt;Berlin&lt;/strong&gt; and working with luxury brands to offer customers services and specific spaces for industry-specific needs.&lt;/p&gt;
+&lt;p&gt;I structured my curriculum vitae in such a manner with the intention of showcasing my accomplishments, as well as my proficiency in software, as a testament to my unwavering commitment and disciplined approach towards continuously enhancing my skills, particularly in the realms of &lt;strong&gt;REAL ESTATE&lt;/strong&gt;, &lt;strong&gt;DATA SCIENCE&lt;/strong&gt;, and &lt;strong&gt;PERSONAL RESEARCH&lt;/strong&gt; development. Skills applied all together to process this CV.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/page/about/profile.PNG&#34;
+	width=&#34;1334&#34;
+	height=&#34;591&#34;
+	srcset=&#34;https://example.com/page/about/profile_hu39414cd9ecce7a977132fa5ac5bcecd5_746054_480x0_resize_box_3.PNG 480w, https://example.com/page/about/profile_hu39414cd9ecce7a977132fa5ac5bcecd5_746054_1024x0_resize_box_3.PNG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Leader Insights Forum 2022, Berlin - METAVERSE &#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;225&#34;
+		data-flex-basis=&#34;541px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;softwares&#34;&gt;Softwares&lt;/h3&gt;
+&lt;p&gt;Thanks to the academic paths as to the personal desire to expand knowledge in relation to technological innovations, I had the opportunity to deepen various software ranging from data analysis, management of the real estate to the planning itself&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Software&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;th&gt;Software&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Excel&lt;/td&gt;
+&lt;td&gt;9 / 10&lt;/td&gt;
+&lt;td&gt;R Studio&lt;/td&gt;
+&lt;td&gt;8 / 10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Powerpoint&lt;/td&gt;
+&lt;td&gt;9 / 10&lt;/td&gt;
+&lt;td&gt;Word&lt;/td&gt;
+&lt;td&gt;9 / 10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;InDesign&lt;/td&gt;
+&lt;td&gt;10 / 10&lt;/td&gt;
+&lt;td&gt;Photoshop&lt;/td&gt;
+&lt;td&gt;8 / 10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Illustrator&lt;/td&gt;
+&lt;td&gt;10 / 10&lt;/td&gt;
+&lt;td&gt;Autocad&lt;/td&gt;
+&lt;td&gt;8 / 10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Rhinoceros&lt;/td&gt;
+&lt;td&gt;8 / 10&lt;/td&gt;
+&lt;td&gt;Blender&lt;/td&gt;
+&lt;td&gt;8 / 10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sketchup&lt;/td&gt;
+&lt;td&gt;8 / 10&lt;/td&gt;
+&lt;td&gt;Lumion&lt;/td&gt;
+&lt;td&gt;9 / 10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;languages&#34;&gt;Languages&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Language&lt;/th&gt;
+&lt;th&gt;Level&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Italian&lt;/td&gt;
+&lt;td&gt;Native&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;English&lt;/td&gt;
+&lt;td&gt;Advanced&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Arabic&lt;/td&gt;
+&lt;td&gt;Native&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Spanish&lt;/td&gt;
+&lt;td&gt;Fluent&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 </description>
         </item>
         <item>
-        <title>Links</title>
-        <link>https://example.com/page/links/</link>
+        <title>Contacts</title>
+        <link>https://example.com/page/contacts/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/page/links/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;links&lt;/span&gt;:
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  - &lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;GitHub&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;description&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;website&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;https://github.com&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;image&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  - &lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;TypeScript&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;description&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;website&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;image&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;ts-logo-128.jpg&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+        <guid>https://example.com/page/contacts/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;Feel free to contact me at:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt;
+&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;a class=&#34;link&#34; href=&#34;mailto:a.marey.arch@gmail.com&#34; &gt;a.marey.arch@gmail.com&lt;/a&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Phone number:&lt;/strong&gt;
+Italy +393248495076
+Spain +34611233316&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
-        </item>
-        <item>
-        <title>Search</title>
-        <link>https://example.com/page/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/page/search/</guid>
-        <description></description>
         </item>
         
     </channel>

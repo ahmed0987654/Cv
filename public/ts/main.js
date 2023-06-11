@@ -5,7 +5,7 @@
 /*!
 *   Hugo Theme Stack
 *
-*   @author: Jimmy Cai
-*   @website: https://jimmycai.com
-*   @link: https://github.com/CaiJimmy/hugo-theme-stack
+*   @author: Ahmed Marey
+*   @website: https://www.linkedin.com/in/ammarey/
+*   @link: https://github.com/ahmed0987654
 */
